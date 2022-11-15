@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@types/node": "18.11.9",
@@ -21,6 +22,7 @@
   },
   "devDependencies": {
     "git-commit-msg-linter": "^4.2.1",
+    "husky": "^8.0.2",
     "lint-staged": "^13.0.3"
   }
 }
