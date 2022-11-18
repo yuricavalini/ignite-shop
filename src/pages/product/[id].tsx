@@ -39,9 +39,10 @@ export default function Product({ product }: ProductProps) {
 
       const { checkoutUrl } = response.data;
 
+      // Apenas para redirecionamento externo.
       window.location.href = checkoutUrl;
     } catch (err) {
-      // Conectar com uma ferramenta de observabilidade (Datadog / Sentry)
+      // Conectar com uma ferramenta de observabilidade (Datadog / Sentry).
 
       setIsCreatingCheckoutSession(false);
       alert('Falha ao redirecionar ao checkout!');
