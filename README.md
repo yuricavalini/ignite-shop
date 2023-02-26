@@ -136,4 +136,4 @@ Main tools used in the construction of the project:
 
 This project is licensed under the [MIT](./LICENSE) license.
 
-Made with ❤️ by Yuri Cavalini 👋🏻 [Entre em contato!](https://www.linkedin.com/in/yuricavalini/)
+Made with ❤️ by Yuri Cavalini 👋🏻 [Contact me!](https://www.linkedin.com/in/yuricavalini/)
