@@ -40,7 +40,7 @@ Project developed during the **Ignite Program** on the ReactJS track taught by [
 The application layout is available in Figma:
 
 <a href="https://www.figma.com/file/UNGoKaHRIl4K0m94utc0ok/Ignite-Shop">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361" />
+  <img alt="Made by Yuri Cavalini" src="https://img.shields.io/badge/Access%20layout-Figma-brightgreen" />
 </a>
 
 ### Web
